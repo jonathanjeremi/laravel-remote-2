@@ -13,5 +13,9 @@
         <li>SUka suka</li>
         <li>keramaian</li>
     </ul>
+    <ol>
+        <li>Pertama</li>
+        <li>Kedua</li>
+    </ol>
 </body>
 </html>
