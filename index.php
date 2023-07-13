@@ -8,5 +8,10 @@
 <body>
     <h1>Penjualan Jasuke</h1>
     <p>Diobral dengan harga murmer</p>
+    <ul>
+        <li>Jajanan</li>
+        <li>SUka suka</li>
+        <li>keramaian</li>
+    </ul>
 </body>
 </html>
